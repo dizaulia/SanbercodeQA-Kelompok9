@@ -1,1 +1,0 @@
-Place for upload result capture automation testing
