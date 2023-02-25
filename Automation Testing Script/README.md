@@ -1,1 +1,0 @@
-Place for upload automation testing script
